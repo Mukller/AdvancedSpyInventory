@@ -4,10 +4,22 @@
 [![maintained](https://img.shields.io/badge/maintained%3F-yes-green?style=flat-square)](https://github.com/Mukller/AdvancedSpyInventory)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
+---
+
+## Language / Язык
+
 </div>
 
-<details open>
-<summary><strong>📖 English</strong></summary>
+| **📖 English** | **📖 Русский** |
+|:---:|:---:|
+| Scroll down / Листай вниз | Листай вниз / Scroll down |
+
+---
+
+## English Version
+
+
+
 
 # AdvancedSpyInventory
 
@@ -232,10 +244,12 @@ Made with ❤️ by Mukller
 
 </div>
 
-</details>
+---
 
-<details>
-<summary><strong>📖 Русский</strong></summary>
+## Русская версия
+
+
+
 
 # AdvancedSpyInventory
 
@@ -462,5 +476,3 @@ Made with ❤️ by Mukller
 ⭐ Если проект помог, поставь звезду!
 
 </div>
-
-</details>
