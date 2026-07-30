@@ -23,3 +23,7 @@ default_language: ru_ru
 # The default value is 'true'.
 # Possible values: 'true' or 'false'
 dynamic_language: true
+
+# Author: Anton Petnitsky
+# GitHub: https://github.com/Mukller/AdvancedSpyInventory
+# Last modified: 2026-01-31 21:51:32 +0300
